@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @ziling-ctrl
+/src/backend/database.py      @ziling-ctrl
+/src/backend/routers/auth.py  @ziling-ctrl
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @ziling-ctrl
